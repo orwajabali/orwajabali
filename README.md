@@ -241,7 +241,7 @@ Led and scaled a contracting firm from inception, delivering projects exceeding 
 
 ## 🌱 Volunteer
 
-**An-Najah Innovation Garden** — AR/VR Demos & Prototypes &nbsp;·&nbsp; *6 Months*
+**An-Najah Innovation Park** — AR/VR Demos & Prototypes &nbsp;·&nbsp; *6 Months*
 
 ---
 
