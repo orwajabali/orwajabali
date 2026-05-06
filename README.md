@@ -49,7 +49,7 @@ Open To    : AI/ML Collaborations · Research · Freelance AI Projects
 <td width="50%" valign="top">
 
 ### 🤖 [Multi-Agent Faculty Support System](https://github.com/orwajabali/multi-agent-rag-chatbot)
-**2025 · M.Sc. Thesis · Production-Grade**
+**2025 · Production-Grade**
 
 Multi-agent pipeline: Guard → Classifier → Content Generator → Assessment → Submission Evaluator. RAG with Pinecone + LangGraph orchestration.
 
