@@ -202,7 +202,7 @@ Led and scaled a contracting firm from inception, delivering projects exceeding 
 ## 🌍 Languages
 
 ![Arabic](https://img.shields.io/badge/Arabic-Native-009639?style=flat-square)
-![English](https://img.shields.io/badge/English-Professional-0052CC?style=flat-square)
+![English](https://img.shields.io/badge/English-Good-0052CC?style=flat-square)
 
 ---
 
