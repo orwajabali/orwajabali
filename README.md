@@ -233,7 +233,7 @@ Benchmarked 9 classifiers on 25K weather records. ROC-AUC up to 1.00 with ensemb
 
 ## 💼 Professional Background
 
-**Private Contracting Company** &nbsp;·&nbsp; *Founder & General Manager* &nbsp;·&nbsp; Aug 2013 – May 2021
+**Private Contracting Company** &nbsp;·&nbsp; ***Founder & CEO*** &nbsp;·&nbsp; Aug 2013 – May 2021
 
 Led and scaled a contracting firm from inception, delivering projects exceeding **$2M** — building strong skills in leadership, strategic planning, and team management that now complement my AI engineering work.
 
