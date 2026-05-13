@@ -96,7 +96,7 @@ orwa.say_hi()
       <p>
         <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat" />
         <img src="https://img.shields.io/badge/LLaMA_3.1-0467DF?style=flat" />
-        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat" />
+        <img src="https://img.shields.io/badge/Pinecone-6E42E5?style=flat&logo=pinecone&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat" />
       </p>
